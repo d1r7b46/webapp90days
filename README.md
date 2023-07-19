@@ -112,7 +112,23 @@ Kinaesthetic - interactive learning, learning by doing<br>
 *Day 56-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding*<br>
 <br><br>
 
-**Tips for Success for those that have ADHD:**<br>
+
+<br><br>
+**Free Web App Security Courses**
+- Qualys Web Application Scanning Self Paced Training: https://www.qualys.com/training/course/web-application-scanning/
+- PentesterLab Web for Pentester: https://pentesterlab.com/exercises/web_for_pentester/course
+- freeCodeCamp Ethical Hacking 101: Web App Penetration Testing: https://www.youtube.com/watch?v=2_lswM1S264
+
+
+<br><br>
+**Certifications for Web Application Pentesting**
+- eWPT: https://elearnsecurity.com/product/ewpt-certification/
+- GWAPT: https://www.giac.org/certifications/web-application-penetration-tester-gwapt/
+
+
+<br><br><br>
+**Tips for Success for those that have ADHD**<br>
+Dearest fellow ADHDers. This might look like a lot! Take a few hours, plan this out, but keep in mind the below:
 1. Break the study sessions into short, focused blocks with regular breaks to maintain attention.<br>
 2. Use interactive learning methods, such as online labs, capture-the-flag (CTF) challenges, and videos.<br>
 3. Create a quiet and organized study environment to minimize distractions.<br>
