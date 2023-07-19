@@ -1,5 +1,7 @@
 # webapp90days
-A plan for self education, inclusive of the following topics:
+
+
+The below is a plan for self education, inclusive of the following topics:
 SQL injection
 XSS Attacks
 access control vulnerabilities
@@ -10,14 +12,31 @@ Server-Side Request Forgery (SSRF)
 server-side template injection (SSTI)
 XML external entity (XXE) injection
 
+I will try to find learning material for each major section based on the 4 predominant learning styles: Visual, Auditory, Read/Write, and Kinaesthetic.
+
+Visual - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors
+Auditory - learning via active listening
+Read/Write - learning via reading and writing
+Kinaesthetic - interactive learning, learning by doing
+
+
 
 **Study Plan: Web App Pentesting Fundamentals**
 
 *Week 1-2: SQL Injection*
 1. Day 1-2: Introduction to SQL injection (Concepts and Risks)
-   - Read
+   - Visual
+      - Professor Messer's Explanation here: https://www.youtube.com/watch?v=H0IN5Ok7tZk
+      - 
+   - Auditory
+   - Read/Write
       - https://portswigger.net/web-security/sql-injection
       - https://owasp.org/www-community/attacks/SQL_Injection
+      - make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
+   - Kinaesthetic
+      - PortSwigger Labs (APPRENTICE): https://portswigger.net/web-security/sql-injection
+         - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
+      - TryHackMe Labs: https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm
 3. Day 3-4: Types of SQL injection attacks (Union-based, Time-based, Error-based)
 4. Day 5-6: Preventive measures and best practices
 5. Day 7-8: Practice SQL injection on vulnerable web applications (OWASP WebGoat, DVWA)
