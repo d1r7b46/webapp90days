@@ -21,7 +21,7 @@ Kinaesthetic - interactive learning, learning by doing<br>
 
 **Study Plan: Web App Pentesting Fundamentals**
 
-*Week 1-2: SQL Injection*
+*Week 1-2: SQL Injection*<br>
 Day 1-3: Introduction to SQL injection (Concepts and Risks)
    - Visual
       - Understanding Components of a Table: https://www.w3resource.com/sql/sql-basic/the-components-of-a-table.php 
@@ -34,7 +34,7 @@ Day 1-3: Introduction to SQL injection (Concepts and Risks)
    - Kinaesthetic
       - PortSwigger Labs (APPRENTICE): https://portswigger.net/web-security/sql-injection
          - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
-      - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm
+      - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm <br>
 Day 3-6: Types of SQL injection attacks
    - Visual
       - Draw diagrams for yourself of each type you learn about in the material below. If possible, partner with a mentor to ensure understanding.
@@ -47,7 +47,7 @@ Day 3-6: Types of SQL injection attacks
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
       - Complete the Injection section of Juice Shop: https://pwning.owasp-juice.shop/part2/injection.html
-      - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap
+      - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap <br>
 Day 6-9: Preventive measures and best practices
    - Visual
       - Take notes on the Synk's document here, changing up hilighting or even drawing your own diagrams: https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/
@@ -59,7 +59,7 @@ Day 6-9: Preventive measures and best practices
       - Read to understand the "Validate All Input" section found here: https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver16
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
-      - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql
+      - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql <br>
 Day 9-14: Practice SQL injection on vulnerable web applications and in labs
    - Kinaesthetic
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
