@@ -2,15 +2,13 @@
 
 <br>
 The below is a plan for self education, inclusive of the following topics:<br>
-SQL injection<br>
-XSS Attacks<br>
-access control vulnerabilities<br>
-business logic<br>
-information disclosure<br>
-file upload vulnerabilities<br>
-Server-Side Request Forgery (SSRF)<br>
-server-side template injection (SSTI)<br>
-XML external entity (XXE) injection<br>
+Week 1-2 SQL Injection<br>
+Week 3-4 XSS Attacks<br>
+Week 5-6 Access Control Vulnerabilities<br>
+Week 7-8 Business Logic & Information Disclosure<br>
+Week 9-10 File Upload Vulnerabilities & Server-Side Request Forgery (SSRF)<br>
+Week 11-12 Server-Side Template Injection (SSTI) & XML External Entity (XXE) Injection<br>
+Week 13 Review, Practice, Seek Mentorship, & Take Next Steps<br>
 
 I will try to find learning material for each major section based on the 4 predominant learning styles: Visual, Auditory, Read/Write, and Kinaesthetic.
 
