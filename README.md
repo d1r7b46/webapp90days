@@ -19,10 +19,9 @@ Kinaesthetic - interactive learning, learning by doing<br>
 
 <br><br>
 
-**Study Plan: Web App Pentesting Fundamentals**
 
-*Week 1-2: SQL Injection*<br>
-Day 1-3: Introduction to SQL injection (Concepts and Risks)
+**Week 1-2: SQL Injection**<br>
+*Day 1-3: Introduction to SQL injection (Concepts and Risks)*
    - Visual
       - Understanding Components of a Table: https://www.w3resource.com/sql/sql-basic/the-components-of-a-table.php 
    - Auditory
@@ -34,8 +33,9 @@ Day 1-3: Introduction to SQL injection (Concepts and Risks)
    - Kinaesthetic
       - PortSwigger Labs (APPRENTICE): https://portswigger.net/web-security/sql-injection
          - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
-      - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm <br>
-Day 3-6: Types of SQL injection attacks
+      - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm <br><br>
+
+*Day 3-6: Types of SQL injection attacks*<br>
    - Visual
       - Draw diagrams for yourself of each type you learn about in the material below. If possible, partner with a mentor to ensure understanding.
    - Auditory
@@ -47,8 +47,9 @@ Day 3-6: Types of SQL injection attacks
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
       - Complete the Injection section of Juice Shop: https://pwning.owasp-juice.shop/part2/injection.html
-      - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap <br>
-Day 6-9: Preventive measures and best practices
+      - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap <br><br>
+
+*Day 6-9: Preventive measures and best practices*<br>
    - Visual
       - Take notes on the Synk's document here, changing up hilighting or even drawing your own diagrams: https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/
    - Auditory
@@ -59,8 +60,9 @@ Day 6-9: Preventive measures and best practices
       - Read to understand the "Validate All Input" section found here: https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver16
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
-      - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql <br>
-Day 9-14: Practice SQL injection on vulnerable web applications and in labs
+      - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql <br><br>
+
+*Day 9-14: Practice SQL injection on vulnerable web applications and in labs*<br>
    - Kinaesthetic
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
@@ -68,52 +70,52 @@ Day 9-14: Practice SQL injection on vulnerable web applications and in labs
       - Review all flashcards created through these first two weeks<br><br>
 
 
-*Week 3-4: XSS Attacks*
-Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
-Day 18-21: Reflected, Stored, and DOM-based XSS attacks
-Day 21-24: Mitigation techniques and secure coding practices
-Day 24-28: Hands-on XSS exploitation exercises
+**Week 3-4: XSS Attacks**<br>
+*Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*<br>
+*Day 18-21: Reflected, Stored, and DOM-based XSS attacks*<br>
+*Day 21-24: Mitigation techniques and secure coding practices*<br>
+*Day 24-28: Hands-on XSS exploitation exercises*<br>
 <br><br>
 
-*Week 5-6: Access Control Vulnerabilities*
-Day 17-18: Introduction to Access Control flaws (Insecure Direct Object References, IDOR)
-Day 19-20: Role-based access control and privilege escalation
-Day 21-22: Implementing proper access controls
-Day 23-24: Test and practice identifying access control issues
+**Week 5-6: Access Control Vulnerabilities**<br>
+*Day 17-18: Introduction to Access Control flaws, Insecure Direct Object References, IDOR*<br>
+*Day 19-20: Role-based access control and privilege escalation*<br>
+*Day 21-22: Implementing proper access controls*<br>
+*Day 23-24: Test and practice identifying access control issues*<br>
 <br><br>
 
-*Week 7-8: Business Logic & Information Disclosure*
-Day 25-26: Understanding Business Logic vulnerabilities
-Day 27-28: Identifying and exploiting logic flaws
-Day 29-30: Safeguarding business logic and handling sensitive information
-Day 31-32: Analyzing and avoiding information disclosure risks
+**Week 7-8: Business Logic & Information Disclosure**<br>
+*Day 25-26: Understanding Business Logic vulnerabilities*<br>
+*Day 27-28: Identifying and exploiting logic flaws*<br>
+*Day 29-30: Safeguarding business logic and handling sensitive information*<br>
+*Day 31-32: Analyzing and avoiding information disclosure risks*<br>
 <br><br>
 
-*Week 9-10: File Upload Vulnerabilities & SSRF*
-Day 33-34: Exploring File Upload vulnerabilities and potential exploits
-Day 35-36: Best practices for secure file uploads
-Day 37-38: Introduction to Server-Side Request Forgery (SSRF)
-Day 39-40: Detecting and preventing SSRF attacks
+**Week 9-10: File Upload Vulnerabilities & SSRF**<br>
+*Day 33-34: Exploring File Upload vulnerabilities and potential exploits*<br>
+*Day 35-36: Best practices for secure file uploads*<br>
+*Day 37-38: Introduction to Server-Side Request Forgery*<br>
+*Day 39-40: Detecting and preventing SSRF attacks*<br>
 <br><br>
 
-*Week 11-12: SSTI & XML External Entity (XXE) Injection*
-Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities
-Day 43-44: Mitigation strategies and secure coding techniques
-Day 45-46: Introduction to XML External Entity (XXE) Injection
-Day 47-48: Preventing XXE attacks and staying secure
+**Week 11-12: SSTI & XML External Entity (XXE) Injection**<br>
+*Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities*<br>
+*Day 43-44: Mitigation strategies and secure coding techniques*<br>
+*Day 45-46: Introduction to XML External Entity (XXE) Injection*<br>
+*Day 47-48: Preventing XXE attacks and staying secure*<br>
 <br><br>
 
-*Week 13: Review & Practice*
-1. Day 49-51: Review all topics covered in the past weeks
-2. Day 52-53: Practice on realistic web app pentesting scenarios (e.g., Bug Bounty platforms)
-3. Day 54-55: Seek guidance or mentorship from experienced pentesters if possible
-4. Day 56-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding.
+**Week 13: Review & Practice**<br>
+*Day 49-51: Review all topics covered in the past weeks*<br>
+*Day 52-53: Practice on realistic web app pentesting scenarios*<br>
+*Day 54-55: Seek guidance or mentorship from experienced pentesters if possible*<br>
+*Day 56-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding*<br>
 <br><br>
 
-**Tips for Success for those that have ADHD:**
-1. Break the study sessions into short, focused blocks with regular breaks to maintain attention.
-2. Use interactive learning methods, such as online labs, capture-the-flag (CTF) challenges, and videos.
-3. Create a quiet and organized study environment to minimize distractions.
-4. Utilize task lists, timers, and study apps to help with time management and focus.
-5. Consider joining a study group or finding an accountability partner to stay motivated and engaged.
-6. Celebrate achievements and progress throughout the 90 days to boost morale.
+**Tips for Success for those that have ADHD:**<br>
+1. Break the study sessions into short, focused blocks with regular breaks to maintain attention.<br>
+2. Use interactive learning methods, such as online labs, capture-the-flag (CTF) challenges, and videos.<br>
+3. Create a quiet and organized study environment to minimize distractions.<br>
+4. Utilize task lists, timers, and study apps to help with time management and focus.<br>
+5. Consider joining a study group or finding an accountability partner to stay motivated and engaged.<br>
+6. Celebrate achievements and progress throughout the 90 days to boost morale.<br>
