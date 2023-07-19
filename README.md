@@ -59,6 +59,7 @@ Kinaesthetic - interactive learning, learning by doing
       - Read & take notes: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
       - Read & take notes: https://portswigger.net/web-security/sql-injection#how-to-prevent-sql-injection
       - Read to understand the "Validate All Input" section found here: https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver16
+      - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
       - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql
 7. Day 9-14: Practice SQL injection on vulnerable web applications and in labs
@@ -66,6 +67,7 @@ Kinaesthetic - interactive learning, learning by doing
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
       - Complete Damn Vulnerable Web Application's section on SQL Injections: https://github.com/digininja/DVWA
+      - Review all flashcards created through these first two weeks
 
 *Week 3-4: XSS Attacks*
 1. Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
