@@ -1,26 +1,41 @@
 # Web App Attack Basics - 90 Days of Education
+This plan is designed for self-education in web application security and includes the following topics:
 
-<br>
-The below is a plan for self education, inclusive of the following topics:<br>
-Week 1-2    | SQL Injection<br>
-Week 3-4    | XSS Attacks<br>
-Week 5-6    | Access Control Vulnerabilities<br>
-Week 7-8    | Business Logic & Information Disclosure<br>
-Week 9-10   | File Upload Vulnerabilities & Server-Side Request Forgery (SSRF)<br>
-Week 11-12  | Server-Side Template Injection (SSTI) & XML External Entity (XXE) Injection<br>
-Week 13     | Review, Practice, Seek Mentorship, & Take Next Steps<br><br>
+**Week 1-2:** SQL Injection <br>
+**Week 3-4:** XSS Attacks (Cross-Site Scripting) <br>
+**Week 5-6:** Access Control Vulnerabilities <br>
+**Week 7-8:** Business Logic & Information Disclosure <br>
+**Week 9-10:** File Upload Vulnerabilities & Server-Side Request Forgery (SSRF) <br>
+**Week 11-12:** Server-Side Template Injection (SSTI) & XML External Entity (XXE) Injection <br>
+**Week 13:** Review, Practice, Seek Mentorship, & Take Next Steps <br>
 
-I will try to find learning material for each major section based on the 4 predominant learning styles: Visual, Auditory, Read/Write, and Kinaesthetic.<br>
-
-Visual - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors<br>
-Auditory - learning via active listening<br>
-Read/Write - learning via reading and writing<br>
-Kinaesthetic - interactive learning, learning by doing<br>
+I will try to find learning material for each major section based on the 4 predominant learning styles. Many people need to utilize a mixture of learning styles to grasp concepts. Feel free to work your way through everything provided or to go through it until you feel comfortable discussing the topic in an interview or with peers. <br>
+The 4 types are: <br>
+**Visual** - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors<br>
+**Auditory** - learning via active listening<br>
+**Read/Write** - learning via reading and writing<br>
+**Kinaesthetic** - interactive learning, learning by doing<br>
 
 <br><br>
 
+## **Before you Begin**
+- Set up an account with PortSwigger <br>
+https://portswigger.net/web-security
+- Set up Juice Shop <br>
+https://pwning.owasp-juice.shop
+- Set up a TryHackMe account (affiliate link) <br>
+https://tryhackme.com/signup?referrer=5fc50abdccbc930779bcc40e
+<br><br>
+Optional:
+- Set up a Quizlet account <br>
+https://quizlet.com
 
-**Week 1-2: SQL Injection**<br>
+<br><br><br>
+## Schedule 
+
+<br>
+
+### **Week 1-2: SQL Injection** <br>
 *Day 1-3: Introduction to SQL injection (Concepts and Risks)*
    - Visual
       - Understanding Components of a Table: https://www.w3resource.com/sql/sql-basic/the-components-of-a-table.php 
@@ -67,45 +82,52 @@ Kinaesthetic - interactive learning, learning by doing<br>
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
       - Complete Damn Vulnerable Web Application's section on SQL Injections: https://github.com/digininja/DVWA
-      - Review all flashcards created through these first two weeks<br><br>
+      - Review all flashcards created through these first two weeks. Here's the deck I created: https://quizlet.com/814910147/sql-injections-flash-cards/?i=4yncp7&x=1jqt
 
+<br><br>
 
-**Week 3-4: XSS Attacks**<br>
-*Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*<br>
+### **Week 3-4: XSS Attacks**<br>
+*Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*
+- Visual
+- Auditory
+- Read/Write
+- Kinaesthetic
+
+ <br>
 *Day 18-21: Reflected, Stored, and DOM-based XSS attacks*<br>
 *Day 21-24: Mitigation techniques and secure coding practices*<br>
 *Day 24-28: Hands-on XSS exploitation exercises*<br>
 <br><br>
 
-**Week 5-6: Access Control Vulnerabilities**<br>
+### **Week 5-6: Access Control Vulnerabilities**<br>
 *Day 17-18: Introduction to Access Control flaws, Insecure Direct Object References, IDOR*<br>
 *Day 19-20: Role-based access control and privilege escalation*<br>
 *Day 21-22: Implementing proper access controls*<br>
 *Day 23-24: Test and practice identifying access control issues*<br>
 <br><br>
 
-**Week 7-8: Business Logic & Information Disclosure**<br>
+### **Week 7-8: Business Logic & Information Disclosure**<br>
 *Day 25-26: Understanding Business Logic vulnerabilities*<br>
 *Day 27-28: Identifying and exploiting logic flaws*<br>
 *Day 29-30: Safeguarding business logic and handling sensitive information*<br>
 *Day 31-32: Analyzing and avoiding information disclosure risks*<br>
 <br><br>
 
-**Week 9-10: File Upload Vulnerabilities & SSRF**<br>
+### **Week 9-10: File Upload Vulnerabilities & SSRF**<br>
 *Day 33-34: Exploring File Upload vulnerabilities and potential exploits*<br>
 *Day 35-36: Best practices for secure file uploads*<br>
 *Day 37-38: Introduction to Server-Side Request Forgery*<br>
 *Day 39-40: Detecting and preventing SSRF attacks*<br>
 <br><br>
 
-**Week 11-12: SSTI & XML External Entity (XXE) Injection**<br>
+### **Week 11-12: SSTI & XML External Entity (XXE) Injection**<br>
 *Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities*<br>
 *Day 43-44: Mitigation strategies and secure coding techniques*<br>
 *Day 45-46: Introduction to XML External Entity (XXE) Injection*<br>
 *Day 47-48: Preventing XXE attacks and staying secure*<br>
 <br><br>
 
-**Week 13: Review & Practice**<br>
+### **Week 13: Review & Practice**<br>
 *Day 49-51: Review all topics covered in the past weeks*<br>
 *Day 52-53: Practice on realistic web app pentesting scenarios*<br>
 *Day 54-55: Seek guidance or mentorship from experienced pentesters if possible*<br>
@@ -114,20 +136,20 @@ Kinaesthetic - interactive learning, learning by doing<br>
 
 
 <br><br>
-**Free Web App Security Courses**
+## **Free Web App Security Courses**
 - Qualys Web Application Scanning Self Paced Training: https://www.qualys.com/training/course/web-application-scanning/
 - PentesterLab Web for Pentester: https://pentesterlab.com/exercises/web_for_pentester/course
 - freeCodeCamp Ethical Hacking 101: Web App Penetration Testing: https://www.youtube.com/watch?v=2_lswM1S264
 
 
 <br><br>
-**Certifications for Web Application Pentesting**
+## **Certifications for Web Application Pentesting**
 - eWPT: https://elearnsecurity.com/product/ewpt-certification/
 - GWAPT: https://www.giac.org/certifications/web-application-penetration-tester-gwapt/
 
 
 <br><br><br>
-**Tips for Success for those that have ADHD**<br>
+## **Tips for Success for those that have ADHD**<br>
 Dearest fellow ADHDers. This might look like a lot! Take a few hours, plan this out, but keep in mind the below:
 1. Break the study sessions into short, focused blocks with regular breaks to maintain attention.<br>
 2. Use interactive learning methods, such as online labs, capture-the-flag (CTF) challenges, and videos.<br>
