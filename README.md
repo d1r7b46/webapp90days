@@ -66,6 +66,7 @@ Kinaesthetic - interactive learning, learning by doing<br>
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
       - Complete Damn Vulnerable Web Application's section on SQL Injections: https://github.com/digininja/DVWA
       - Review all flashcards created through these first two weeks
+
 <br><br>
 *Week 3-4: XSS Attacks*
 1. Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
