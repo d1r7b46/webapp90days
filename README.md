@@ -15,9 +15,12 @@ XML external entity (XXE) injection
 
 *Week 1-2: SQL Injection*
 1. Day 1-2: Introduction to SQL injection (Concepts and Risks)
-2. Day 3-4: Types of SQL injection attacks (Union-based, Time-based, Error-based)
-3. Day 5-6: Preventive measures and best practices
-4. Day 7-8: Practice SQL injection on vulnerable web applications (OWASP WebGoat, DVWA)
+   - Read
+      - https://portswigger.net/web-security/sql-injection
+      - https://owasp.org/www-community/attacks/SQL_Injection
+3. Day 3-4: Types of SQL injection attacks (Union-based, Time-based, Error-based)
+4. Day 5-6: Preventive measures and best practices
+5. Day 7-8: Practice SQL injection on vulnerable web applications (OWASP WebGoat, DVWA)
 
 *Week 3-4: XSS Attacks*
 1. Day 9-10: Understanding Cross-Site Scripting (XSS) vulnerabilities
