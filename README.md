@@ -19,7 +19,7 @@ Auditory - learning via active listening
 Read/Write - learning via reading and writing
 Kinaesthetic - interactive learning, learning by doing
 
-
+<br><br>
 
 **Study Plan: Web App Pentesting Fundamentals**
 
