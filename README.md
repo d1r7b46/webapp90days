@@ -66,43 +66,43 @@ Kinaesthetic - interactive learning, learning by doing<br>
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
       - Complete Damn Vulnerable Web Application's section on SQL Injections: https://github.com/digininja/DVWA
       - Review all flashcards created through these first two weeks
-
+<br><br>
 *Week 3-4: XSS Attacks*
 1. Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
 2. Day 18-21: Reflected, Stored, and DOM-based XSS attacks
 3. Day 21-24: Mitigation techniques and secure coding practices
 4. Day 24-28: Hands-on XSS exploitation exercises
-
+<br><br>
 *Week 5-6: Access Control Vulnerabilities*
 1. Day 17-18: Introduction to Access Control flaws (Insecure Direct Object References, IDOR)
 2. Day 19-20: Role-based access control and privilege escalation
 3. Day 21-22: Implementing proper access controls
 4. Day 23-24: Test and practice identifying access control issues
-
+<br><br>
 *Week 7-8: Business Logic & Information Disclosure*
 1. Day 25-26: Understanding Business Logic vulnerabilities
 2. Day 27-28: Identifying and exploiting logic flaws
 3. Day 29-30: Safeguarding business logic and handling sensitive information
 4. Day 31-32: Analyzing and avoiding information disclosure risks
-
+<br><br>
 *Week 9-10: File Upload Vulnerabilities & SSRF*
 1. Day 33-34: Exploring File Upload vulnerabilities and potential exploits
 2. Day 35-36: Best practices for secure file uploads
 3. Day 37-38: Introduction to Server-Side Request Forgery (SSRF)
 4. Day 39-40: Detecting and preventing SSRF attacks
-
+<br><br>
 *Week 11-12: SSTI & XML External Entity (XXE) Injection*
 1. Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities
 2. Day 43-44: Mitigation strategies and secure coding techniques
 3. Day 45-46: Introduction to XML External Entity (XXE) Injection
 4. Day 47-48: Preventing XXE attacks and staying secure
-
+<br><br>
 *Week 13: Review & Practice*
 1. Day 49-51: Review all topics covered in the past weeks
 2. Day 52-53: Practice on realistic web app pentesting scenarios (e.g., Bug Bounty platforms)
 3. Day 54-55: Seek guidance or mentorship from experienced pentesters if possible
 4. Day 56-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding.
-
+<br><br>
 **Tips for Success for those that have ADHD:**
 1. Break the study sessions into short, focused blocks with regular breaks to maintain attention.
 2. Use interactive learning methods, such as online labs, capture-the-flag (CTF) challenges, and videos.
