@@ -104,6 +104,7 @@ Kinaesthetic - interactive learning, learning by doing<br>
 3. Day 54-55: Seek guidance or mentorship from experienced pentesters if possible
 4. Day 56-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding.
 <br><br>
+
 **Tips for Success for those that have ADHD:**
 1. Break the study sessions into short, focused blocks with regular breaks to maintain attention.
 2. Use interactive learning methods, such as online labs, capture-the-flag (CTF) challenges, and videos.
