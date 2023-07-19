@@ -24,28 +24,54 @@ Kinaesthetic - interactive learning, learning by doing
 **Study Plan: Web App Pentesting Fundamentals**
 
 *Week 1-2: SQL Injection*
-1. Day 1-2: Introduction to SQL injection (Concepts and Risks)
+1. Day 1-3: Introduction to SQL injection (Concepts and Risks)
    - Visual
-      - Professor Messer's Explanation here: https://www.youtube.com/watch?v=H0IN5Ok7tZk
-      - 
+      - Understanding Components of a Table: https://www.w3resource.com/sql/sql-basic/the-components-of-a-table.php 
    - Auditory
+      - Professor Messer's Explanation here: https://www.youtube.com/watch?v=H0IN5Ok7tZk
    - Read/Write
-      - https://portswigger.net/web-security/sql-injection
-      - https://owasp.org/www-community/attacks/SQL_Injection
-      - make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
+      - Read & take notes: https://portswigger.net/web-security/sql-injection
+      - Read & take notes: https://owasp.org/www-community/attacks/SQL_Injection
+      - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
       - PortSwigger Labs (APPRENTICE): https://portswigger.net/web-security/sql-injection
          - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
-      - TryHackMe Labs: https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm
-3. Day 3-4: Types of SQL injection attacks (Union-based, Time-based, Error-based)
-4. Day 5-6: Preventive measures and best practices
-5. Day 7-8: Practice SQL injection on vulnerable web applications (OWASP WebGoat, DVWA)
+      - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm
+3. Day 3-6: Types of SQL injection attacks
+   - Visual
+      - Draw diagrams for yourself of each type you learn about in the material below. If possible, partner with a mentor to ensure understanding.
+   - Auditory
+      - 4 Types of SQL Injection by Bert Wagner: https://www.youtube.com/watch?v=UMJV3OpjsoM
+   - Read/Write
+      - Read & take notes - High Level Review: https://www.geeksforgeeks.org/types-of-sql-injection-sqli/
+      - Read & take notes - Union: https://portswigger.net/web-security/sql-injection/union-attacks
+      - Read & take notes - Blind: https://portswigger.net/web-security/sql-injection/blind
+      - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
+   - Kinaesthetic
+      - Complete the Injection section of Juice Shop: https://pwning.owasp-juice.shop/part2/injection.html
+      - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap
+5. Day 6-9: Preventive measures and best practices
+   - Visual
+      - Take notes on the Synk's document here, changing up hilighting or even drawing your own diagrams: https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/
+   - Auditory
+      - Catch Rana Khalil's video, focusing specifically on the "How to Prevent" section: https://www.youtube.com/watch?v=1nJgupaUPEQ
+   - Read/Write
+      - Read & take notes: https://cheatsheetseries.owasp.org/cheatsheets/SQL_Injection_Prevention_Cheat_Sheet.html
+      - Read & take notes: https://portswigger.net/web-security/sql-injection#how-to-prevent-sql-injection
+      - Read to understand the "Validate All Input" section found here: https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver16
+   - Kinaesthetic
+      - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql
+7. Day 9-14: Practice SQL injection on vulnerable web applications and in labs
+   - Kinaesthetic
+      - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
+      - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
+      - Complete Damn Vulnerable Web Application's section on SQL Injections: https://github.com/digininja/DVWA
 
 *Week 3-4: XSS Attacks*
-1. Day 9-10: Understanding Cross-Site Scripting (XSS) vulnerabilities
-2. Day 11-12: Reflected, Stored, and DOM-based XSS attacks
-3. Day 13-14: Mitigation techniques and secure coding practices
-4. Day 15-16: Hands-on XSS exploitation exercises
+1. Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
+2. Day 18-21: Reflected, Stored, and DOM-based XSS attacks
+3. Day 21-24: Mitigation techniques and secure coding practices
+4. Day 24-28: Hands-on XSS exploitation exercises
 
 *Week 5-6: Access Control Vulnerabilities*
 1. Day 17-18: Introduction to Access Control flaws (Insecure Direct Object References, IDOR)
