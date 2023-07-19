@@ -1,4 +1,4 @@
-# webapp90days
+# Web App Attack Basics - 90 Days of Education
 
 
 The below is a plan for self education, inclusive of the following topics:
