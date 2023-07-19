@@ -2,22 +2,22 @@
 
 
 The below is a plan for self education, inclusive of the following topics:
-SQL injection
-XSS Attacks
-access control vulnerabilities
-business logic
-information disclosure
-file upload vulnerabilities
-Server-Side Request Forgery (SSRF)
-server-side template injection (SSTI)
-XML external entity (XXE) injection
+SQL injection<br>
+XSS Attacks<br>
+access control vulnerabilities<br>
+business logic<br>
+information disclosure<br>
+file upload vulnerabilities<br>
+Server-Side Request Forgery (SSRF)<br>
+server-side template injection (SSTI)<br>
+XML external entity (XXE) injection<br>
 
 I will try to find learning material for each major section based on the 4 predominant learning styles: Visual, Auditory, Read/Write, and Kinaesthetic.
 
-Visual - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors
-Auditory - learning via active listening
-Read/Write - learning via reading and writing
-Kinaesthetic - interactive learning, learning by doing
+Visual - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors<br>
+Auditory - learning via active listening<br>
+Read/Write - learning via reading and writing<br>
+Kinaesthetic - interactive learning, learning by doing<br>
 
 <br><br>
 
