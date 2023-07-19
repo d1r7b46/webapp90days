@@ -22,7 +22,7 @@ Kinaesthetic - interactive learning, learning by doing<br>
 **Study Plan: Web App Pentesting Fundamentals**
 
 *Week 1-2: SQL Injection*
-1. Day 1-3: Introduction to SQL injection (Concepts and Risks)
+Day 1-3: Introduction to SQL injection (Concepts and Risks)
    - Visual
       - Understanding Components of a Table: https://www.w3resource.com/sql/sql-basic/the-components-of-a-table.php 
    - Auditory
@@ -35,7 +35,7 @@ Kinaesthetic - interactive learning, learning by doing<br>
       - PortSwigger Labs (APPRENTICE): https://portswigger.net/web-security/sql-injection
          - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm
-3. Day 3-6: Types of SQL injection attacks
+Day 3-6: Types of SQL injection attacks
    - Visual
       - Draw diagrams for yourself of each type you learn about in the material below. If possible, partner with a mentor to ensure understanding.
    - Auditory
@@ -48,7 +48,7 @@ Kinaesthetic - interactive learning, learning by doing<br>
    - Kinaesthetic
       - Complete the Injection section of Juice Shop: https://pwning.owasp-juice.shop/part2/injection.html
       - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap
-5. Day 6-9: Preventive measures and best practices
+Day 6-9: Preventive measures and best practices
    - Visual
       - Take notes on the Synk's document here, changing up hilighting or even drawing your own diagrams: https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/
    - Auditory
@@ -60,44 +60,49 @@ Kinaesthetic - interactive learning, learning by doing<br>
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
       - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql
-7. Day 9-14: Practice SQL injection on vulnerable web applications and in labs
+Day 9-14: Practice SQL injection on vulnerable web applications and in labs
    - Kinaesthetic
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
       - Complete Damn Vulnerable Web Application's section on SQL Injections: https://github.com/digininja/DVWA
-      - Review all flashcards created through these first two weeks
+      - Review all flashcards created through these first two weeks<br><br>
 
-<br><br>
+
 *Week 3-4: XSS Attacks*
-1. Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
-2. Day 18-21: Reflected, Stored, and DOM-based XSS attacks
-3. Day 21-24: Mitigation techniques and secure coding practices
-4. Day 24-28: Hands-on XSS exploitation exercises
+Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities
+Day 18-21: Reflected, Stored, and DOM-based XSS attacks
+Day 21-24: Mitigation techniques and secure coding practices
+Day 24-28: Hands-on XSS exploitation exercises
 <br><br>
+
 *Week 5-6: Access Control Vulnerabilities*
-1. Day 17-18: Introduction to Access Control flaws (Insecure Direct Object References, IDOR)
-2. Day 19-20: Role-based access control and privilege escalation
-3. Day 21-22: Implementing proper access controls
-4. Day 23-24: Test and practice identifying access control issues
+Day 17-18: Introduction to Access Control flaws (Insecure Direct Object References, IDOR)
+Day 19-20: Role-based access control and privilege escalation
+Day 21-22: Implementing proper access controls
+Day 23-24: Test and practice identifying access control issues
 <br><br>
+
 *Week 7-8: Business Logic & Information Disclosure*
-1. Day 25-26: Understanding Business Logic vulnerabilities
-2. Day 27-28: Identifying and exploiting logic flaws
-3. Day 29-30: Safeguarding business logic and handling sensitive information
-4. Day 31-32: Analyzing and avoiding information disclosure risks
+Day 25-26: Understanding Business Logic vulnerabilities
+Day 27-28: Identifying and exploiting logic flaws
+Day 29-30: Safeguarding business logic and handling sensitive information
+Day 31-32: Analyzing and avoiding information disclosure risks
 <br><br>
+
 *Week 9-10: File Upload Vulnerabilities & SSRF*
-1. Day 33-34: Exploring File Upload vulnerabilities and potential exploits
-2. Day 35-36: Best practices for secure file uploads
-3. Day 37-38: Introduction to Server-Side Request Forgery (SSRF)
-4. Day 39-40: Detecting and preventing SSRF attacks
+Day 33-34: Exploring File Upload vulnerabilities and potential exploits
+Day 35-36: Best practices for secure file uploads
+Day 37-38: Introduction to Server-Side Request Forgery (SSRF)
+Day 39-40: Detecting and preventing SSRF attacks
 <br><br>
+
 *Week 11-12: SSTI & XML External Entity (XXE) Injection*
-1. Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities
-2. Day 43-44: Mitigation strategies and secure coding techniques
-3. Day 45-46: Introduction to XML External Entity (XXE) Injection
-4. Day 47-48: Preventing XXE attacks and staying secure
+Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities
+Day 43-44: Mitigation strategies and secure coding techniques
+Day 45-46: Introduction to XML External Entity (XXE) Injection
+Day 47-48: Preventing XXE attacks and staying secure
 <br><br>
+
 *Week 13: Review & Practice*
 1. Day 49-51: Review all topics covered in the past weeks
 2. Day 52-53: Practice on realistic web app pentesting scenarios (e.g., Bug Bounty platforms)
