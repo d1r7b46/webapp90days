@@ -30,8 +30,8 @@ Optional:
 https://quizlet.com <br><br><br>
 
 ## Informational  
-I've worked to expose myself & the student here to different YouTube channels/personalities for a reason. If you find that you learn the best from Computerphile, go find more of those for the topic at hand. If you learn better from Alex Olsen, go seek out his videos instead. <br><br>
-Then, although I've pulled out individual PortSwigger sections I'd advise to read & take notes on the entire PortSwigger trainings for the topics mentioned above. <br><br>
+I've worked to expose myself & the student here to different YouTube channels/personalities for a reason. If you find that you learn the best from Computerphile, go find more of those for the topic at hand. If you learn better from Alex Olsen, go seek out his videos instead! <br><br>
+Then, although I've pulled out individual PortSwigger sections I'd advise to read & take notes on the entire PortSwigger trainings for the topics mentioned above. This material will be PortSwigger heavy! <br><br>
 If you got a ton out of this and want to buy me a coffee, I won't say no :D 
 https://ko-fi.com/d1r7b46 <br><br>
 Okay onto the good stuff!
@@ -51,7 +51,7 @@ Okay onto the good stuff!
       - Read & take notes: https://owasp.org/www-community/attacks/SQL_Injection
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
-      - PortSwigger Labs (APPRENTICE): https://portswigger.net/web-security/sql-injection
+      - Complete all Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#sql-injection
          - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab & https://tryhackme.com/room/sqlinjectionlm <br><br>
 
@@ -92,7 +92,7 @@ Okay onto the good stuff!
 
 <br><br>
 
-### **Week 3-4: XSS Attacks**<br>
+### **Week 3-4: XSS Attacks** <br>
 *Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*
 - Visual
    - This blog has some good visuals for several XSS attacks: https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
@@ -108,9 +108,17 @@ Okay onto the good stuff!
    - TryHackMe room MD2PDF has a XSS vulnerability, can you get the flag? https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=xss
    - TryHackMe paid $ room Cross-site Scripting might also be a good choice if you pay for the service: https://tryhackme.com/room/xss <br><br>
 
-*Day 18-21: Reflected, Stored, and DOM-based XSS attacks*<br>
+*Day 18-21: Reflected, Stored, and DOM-based XSS attacks* <br>
 - Visual
-   - 
+   - PwnFunction on YouTube draws and provides graphics as they teach, Reflected XSS is at 5.41, Dom is at 7.30: https://www.youtube.com/watch?v=EoaDgUgS6QA
+- Auditory
+   - Although there are also some diagrams on LiveOverflow's video on XSS you can easily just listen to this video if you want: https://www.youtube.com/watch?v=mKAWpFdVcPY
+- Read/Write
+   - Read & take notes on the Reflected, Stored, and DOM-based XSS attacks on PortSwigger: https://portswigger.net/web-security/cross-site-scripting/reflected
+   - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
+- Kinaesthetic
+   - Complete all Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#cross-site-scripting   <br><br>
+   
 *Day 21-24: Mitigation techniques and secure coding practices*<br>
 *Day 24-28: Hands-on XSS exploitation exercises*<br>
 - Kinaesthetic
@@ -118,7 +126,7 @@ Okay onto the good stuff!
 
 <br><br>
 
-### **Week 5-6: Access Control Vulnerabilities**<br>
+### **Week 5-6: Access Control Vulnerabilities** <br>
 *Day 17-18: Introduction to Access Control flaws, Insecure Direct Object References, IDOR*<br>
 *Day 19-20: Role-based access control and privilege escalation*<br>
 *Day 21-22: Implementing proper access controls*<br>
