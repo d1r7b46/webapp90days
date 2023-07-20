@@ -1,13 +1,12 @@
 # Web App Attack Basics - 90 Days of Education
 This plan is designed for self-education in web application security and includes the following topics:
-
 **Week 1-2:** SQL Injection <br>
 **Week 3-4:** XSS Attacks (Cross-Site Scripting) <br>
 **Week 5-6:** Access Control Vulnerabilities <br>
 **Week 7-8:** Business Logic & Information Disclosure <br>
 **Week 9-10:** File Upload Vulnerabilities & Server-Side Request Forgery (SSRF) <br>
 **Week 11-12:** Server-Side Template Injection (SSTI) & XML External Entity (XXE) Injection <br>
-**Week 13:** Review, Practice, Seek Mentorship, & Take Next Steps <br>
+**Week 13:** Review, Practice, Seek Mentorship, & Take Next Steps <br><br>
 
 I will try to find learning material for each major section based on the 4 predominant learning styles. Many people need to utilize a mixture of learning styles to grasp concepts. Feel free to work your way through everything provided or to go through it until you feel comfortable discussing the topic in an interview or with peers. <br>
 The 4 types are: <br>
@@ -28,12 +27,18 @@ https://tryhackme.com/signup?referrer=5fc50abdccbc930779bcc40e
 <br><br>
 Optional:
 - Set up a Quizlet account <br>
-https://quizlet.com
+https://quizlet.com <br><br><br>
+
+## Informational  
+I've worked to expose myself & the student here to different YouTube channels/personalities for a reason. If you find that you learn the best from Computerphile, go find more of those for the topic at hand. If you learn better from Alex Olsen, go seek out his videos instead. <br><br>
+Then, although I've pulled out individual PortSwigger sections I'd advise to read & take notes on the entire PortSwigger trainings for the topics mentioned above. <br><br>
+If you got a ton out of this and want to buy me a coffee, I won't say no :D 
+https://ko-fi.com/d1r7b46 <br><br>
+Okay onto the good stuff!
+
 
 <br><br><br>
-## Schedule 
-
-<br>
+## Plan & Schedule 
 
 ### **Week 1-2: SQL Injection** <br>
 *Day 1-3: Introduction to SQL injection (Concepts and Risks)*
@@ -91,19 +96,23 @@ https://quizlet.com
 *Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*
 - Visual
    - This blog has some good visuals for several XSS attacks: https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
-   - Create your own diagrams for these attacks, utilize what you find like the above.
+   - Watch the Computerphile guys explain verbally and by drawing out a xss attack: https://www.youtube.com/watch?v=L5l9lSnNMxg&list=RDLVL5l9lSnNMxg&start_radio=1&rv=L5l9lSnNMxg&t=33
+   - The Lightboard Lesson series is awesome to watch through, here's the XSS one: https://www.youtube.com/watch?v=IuzU4y-UjLw
 - Auditory
-   -  
+   -  Catch HackerSploit's video: https://www.youtube.com/watch?v=SHmQ3sQFeLE
 - Read/Write
+   - Read & take notes: https://portswigger.net/web-security/cross-site-scripting
    - Read through top XSS bug bounty reports: https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPXSS.md
+   - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Kinaesthetic
+   - TryHackMe room MD2PDF has a XSS vulnerability, can you get the flag? https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=xss
+   - TryHackMe paid $ room Cross-site Scripting might also be a good choice if you pay for the service: https://tryhackme.com/room/xss <br><br>
 
 *Day 18-21: Reflected, Stored, and DOM-based XSS attacks*<br>
+- Visual
+   - 
 *Day 21-24: Mitigation techniques and secure coding practices*<br>
 *Day 24-28: Hands-on XSS exploitation exercises*<br>
-- Visual
-- Auditory
-- Read/Write
 - Kinaesthetic
    - Play the XSS Game: https://xss-game.appspot.com
 
