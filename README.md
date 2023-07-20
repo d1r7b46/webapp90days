@@ -55,6 +55,7 @@ https://quizlet.com
       - Draw diagrams for yourself of each type you learn about in the material below. If possible, partner with a mentor to ensure understanding.
    - Auditory
       - 4 Types of SQL Injection by Bert Wagner: https://www.youtube.com/watch?v=UMJV3OpjsoM
+      - Blind SQL Injection Attacks Made Easy: https://www.youtube.com/watch?v=j-fLh_WNg7k
    - Read/Write
       - Read & take notes - High Level Review: https://www.geeksforgeeks.org/types-of-sql-injection-sqli/
       - Read & take notes - Union: https://portswigger.net/web-security/sql-injection/union-attacks
@@ -89,14 +90,23 @@ https://quizlet.com
 ### **Week 3-4: XSS Attacks**<br>
 *Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*
 - Visual
+   - This blog has some good visuals for several XSS attacks: https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
+   - Create your own diagrams for these attacks, utilize what you find like the above.
 - Auditory
+   -  
 - Read/Write
+   - Read through top XSS bug bounty reports: https://github.com/reddelexc/hackerone-reports/blob/master/tops_by_bug_type/TOPXSS.md
 - Kinaesthetic
 
- <br>
 *Day 18-21: Reflected, Stored, and DOM-based XSS attacks*<br>
 *Day 21-24: Mitigation techniques and secure coding practices*<br>
 *Day 24-28: Hands-on XSS exploitation exercises*<br>
+- Visual
+- Auditory
+- Read/Write
+- Kinaesthetic
+   - Play the XSS Game: https://xss-game.appspot.com
+
 <br><br>
 
 ### **Week 5-6: Access Control Vulnerabilities**<br>
