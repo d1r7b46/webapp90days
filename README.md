@@ -8,7 +8,7 @@ This plan is designed for self-education in web application security and include
 **Week 11-12:** Server-Side Template Injection (SSTI) & XML External Entity (XXE) Injection <br>
 **Week 13:** Review, Practice, Seek Mentorship, & Take Next Steps <br><br>
 
-I will try to find learning material for each major section based on the 4 predominant learning styles. Many people need to utilize a mixture of learning styles to grasp concepts. Feel free to work your way through everything provided or to go through it until you feel comfortable discussing the topic in an interview or with peers. <br>
+I will try to find free resources for each major section based on the 4 predominant learning styles. Many people need to utilize a mixture of learning styles to grasp concepts. Feel free to work your way through everything provided or to go through it until you feel comfortable discussing the topic in an interview or with peers. <br>
 The 4 types are: <br>
 **Visual** - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors<br>
 **Auditory** - learning via active listening<br>
@@ -31,7 +31,7 @@ https://quizlet.com <br><br><br>
 
 ## Informational  
 I've worked to expose myself & the student here to different YouTube channels/personalities for a reason. If you find that you learn the best from Computerphile, go find more of those for the topic at hand. If you learn better from Alex Olsen, go seek out his videos instead! <br><br>
-Then, although I've pulled out individual PortSwigger sections I'd advise to read & take notes on the entire PortSwigger trainings for the topics mentioned above. This material will be PortSwigger heavy! <br><br>
+Then, although I've pulled out individual PortSwigger sections I'd advise to read & take notes on the entire PortSwigger trainings for the topics mentioned above, as well as finishing all of Juice Shop. <br><br>
 If you got a ton out of this and want to buy me a coffee, I won't say no :D 
 https://ko-fi.com/d1r7b46 <br><br>
 Okay onto the good stuff!
@@ -81,7 +81,7 @@ Okay onto the good stuff!
       - Read to understand the "Validate All Input" section found here: https://learn.microsoft.com/en-us/sql/relational-databases/security/sql-injection?view=sql-server-ver16
       - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Kinaesthetic
-      - Learn the code in the following, create some code that would be susceptible and seek out: https://bobby-tables.com/plsql <br><br>
+      - Review the code, compare code that would be susceptible to XSS attacks: https://bobby-tables.com/plsql <br><br>
 
 *Day 9-14: Practice SQL injection on vulnerable web applications and in labs*<br>
    - Kinaesthetic
@@ -106,7 +106,7 @@ Okay onto the good stuff!
    - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Kinaesthetic
    - TryHackMe room MD2PDF has a XSS vulnerability, can you get the flag? https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=xss
-   - TryHackMe paid $ room Cross-site Scripting might also be a good choice if you pay for the service: https://tryhackme.com/room/xss <br><br>
+   
 
 *Day 18-21: Reflected, Stored, and DOM-based XSS attacks* <br>
 - Visual
@@ -117,12 +117,28 @@ Okay onto the good stuff!
    - Read & take notes on the Reflected, Stored, and DOM-based XSS attacks on PortSwigger: https://portswigger.net/web-security/cross-site-scripting/reflected
    - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Kinaesthetic
-   - Complete all Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#cross-site-scripting   <br><br>
+   - Complete all Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#cross-site-scripting <br><br>
    
 *Day 21-24: Mitigation techniques and secure coding practices*<br>
-*Day 24-28: Hands-on XSS exploitation exercises*<br>
+- Visual
+   - Web Dev Simplified on YouTube explains how to correct a basic XSS attack: https://www.youtube.com/watch?v=ns1LX6mEvyM
+   - Academind takes it some steps further by attacking and editing code for several xss attacks: https://www.youtube.com/watch?v=oEFPFc36weY
+- Auditory
+   - Take a break and listen in to how Samy Kamkar took down Myspace with a xss attack with a worm: https://www.youtube.com/watch?v=DtnuaHl378M
+- Read/Write
+   - Read & take notes: https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html
+   - Make and use 10-20 physical or digital flashcards, focusing on vocab and key concepts
+- Kinaesthetic
+   - Review the section "How to prevent XSS attacks", utilizing AI or a mentor to write weak and strong code: https://www.wordfence.com/learn/how-to-prevent-cross-site-scripting-attacks/ <br><br>
+
+*Day 24-28: Hands-on XSS exploitation exercises* <br>
 - Kinaesthetic
    - Play the XSS Game: https://xss-game.appspot.com
+   - Review all flashcards created through these first two weeks. <br><br>
+   
+ Pay to Practice XSS
+   - TryHackMe paid $ room Cross-site Scripting might also be a good choice if you pay for the service: https://tryhackme.com/room/xss 
+   - Hack the Box paid $ box Cross-site Scripting might also be a good choice if you pay for the service: https://academy.hackthebox.com/course/preview/cross-site-scripting-xss <br><br>
 
 <br><br>
 
