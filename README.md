@@ -83,7 +83,7 @@ Okay onto the good stuff!
    - Kinaesthetic
       - Review the code, compare code that would be susceptible to XSS attacks: https://bobby-tables.com/plsql <br><br>
 
-*Day 9-14: Practice SQL injection on vulnerable web applications and in labs*<br>
+*Day 9-12: Practice SQL injection on vulnerable web applications and in labs*<br>
    - Kinaesthetic
       - TryHackMe Rooms (free): https://tryhackme.com/room/sqhell OR https://tryhackme.com/room/prioritise
       - Complete OWASP WebGoat's SQL Injection section: https://owasp.org/www-project-webgoat/
@@ -93,7 +93,7 @@ Okay onto the good stuff!
 <br><br>
 
 ### **Week 3-4: XSS Attacks** <br>
-*Day 15-18: Understanding Cross-Site Scripting (XSS) vulnerabilities*
+*Day 12-15: Understanding Cross-Site Scripting (XSS) vulnerabilities*
 - Visual
    - This blog has some good visuals for several XSS attacks: https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
    - Watch the Computerphile guys explain verbally and by drawing out a xss attack: https://www.youtube.com/watch?v=L5l9lSnNMxg&list=RDLVL5l9lSnNMxg&start_radio=1&rv=L5l9lSnNMxg&t=33
@@ -108,7 +108,7 @@ Okay onto the good stuff!
    - TryHackMe room MD2PDF has a XSS vulnerability, can you get the flag? https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=xss
    
 
-*Day 18-21: Reflected, Stored, and DOM-based XSS attacks* <br>
+*Day 15-18: Reflected, Stored, and DOM-based XSS attacks* <br>
 - Visual
    - PwnFunction on YouTube draws and provides graphics as they teach, Reflected XSS is at 5.41, Dom is at 7.30: https://www.youtube.com/watch?v=EoaDgUgS6QA
 - Auditory
@@ -119,7 +119,7 @@ Okay onto the good stuff!
 - Kinaesthetic
    - Complete all Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#cross-site-scripting <br><br>
    
-*Day 21-24: Mitigation techniques and secure coding practices*<br>
+*Day 18-21: Mitigation techniques and secure coding practices*<br>
 - Visual
    - Web Dev Simplified on YouTube explains how to correct a basic XSS attack: https://www.youtube.com/watch?v=ns1LX6mEvyM
    - Academind takes it some steps further by attacking and editing code for several xss attacks: https://www.youtube.com/watch?v=oEFPFc36weY
@@ -131,7 +131,7 @@ Okay onto the good stuff!
 - Kinaesthetic
    - Review the section "How to prevent XSS attacks", utilizing AI or a mentor to write weak and strong code: https://www.wordfence.com/learn/how-to-prevent-cross-site-scripting-attacks/ <br><br>
 
-*Day 24-28: Hands-on XSS exploitation exercises* <br>
+*Day 21-24: Hands-on XSS exploitation exercises* <br>
 - Kinaesthetic
    - Play the XSS Game: https://xss-game.appspot.com
    - Review all flashcards created through these first two weeks. <br><br>
@@ -143,42 +143,58 @@ Okay onto the good stuff!
 <br><br>
 
 ### **Week 5-6: Access Control Vulnerabilities** <br>
-*Day 17-18: Introduction to Access Control flaws, Insecure Direct Object References, IDOR*<br>
-*Day 19-20: Role-based access control and privilege escalation*<br>
-*Day 21-22: Implementing proper access controls*<br>
-*Day 23-24: Test and practice identifying access control issues*<br>
+*Day 24-27: Introduction to Access Control flaws, Insecure Direct Object References, IDOR*<br>
+*Day 27-30: Role-based access control and privilege escalation*<br>
+*Day 30-33: Implementing proper access controls*<br>
+*Day 33-36: Test and practice identifying access control issues*<br>
 <br><br>
 
 ### **Week 7-8: Business Logic & Information Disclosure**<br>
-*Day 25-26: Understanding Business Logic vulnerabilities*<br>
-*Day 27-28: Identifying and exploiting logic flaws*<br>
-*Day 29-30: Safeguarding business logic and handling sensitive information*<br>
-*Day 31-32: Analyzing and avoiding information disclosure risks*<br>
+*Day 36-39: Understanding Business Logic vulnerabilities*<br>
+*Day 39-42: Identifying and exploiting logic flaws*<br>
+*Day 42-45: Safeguarding business logic and handling sensitive information*<br>
+*Day 45-48: Analyzing and avoiding information disclosure risks*<br>
 <br><br>
 
 ### **Week 9-10: File Upload Vulnerabilities & SSRF**<br>
-*Day 33-34: Exploring File Upload vulnerabilities and potential exploits*<br>
-*Day 35-36: Best practices for secure file uploads*<br>
-*Day 37-38: Introduction to Server-Side Request Forgery*<br>
-*Day 39-40: Detecting and preventing SSRF attacks*<br>
+*Day 48-51: Exploring File Upload vulnerabilities and potential exploits*<br>
+*Day 51-54: Best practices for secure file uploads*<br>
+*Day 54-57: Introduction to Server-Side Request Forgery*<br>
+*Day 57-60: Detecting and preventing SSRF attacks*<br>
 <br><br>
 
 ### **Week 11-12: SSTI & XML External Entity (XXE) Injection**<br>
-*Day 41-42: Understanding Server-Side Template Injection (SSTI) vulnerabilities*<br>
-*Day 43-44: Mitigation strategies and secure coding techniques*<br>
-*Day 45-46: Introduction to XML External Entity (XXE) Injection*<br>
-*Day 47-48: Preventing XXE attacks and staying secure*<br>
+*Day 60-63: Understanding Server-Side Template Injection (SSTI) vulnerabilities*<br>
+*Day 63-66: Mitigation strategies and secure coding techniques*<br>
+*Day 66-69: Introduction to XML External Entity (XXE) Injection*<br>
+*Day 69-72: Preventing XXE attacks and staying secure*<br>
 <br><br>
 
-### **Week 13: Review & Practice**<br>
-*Day 49-51: Review all topics covered in the past weeks*<br>
-*Day 52-53: Practice on realistic web app pentesting scenarios*<br>
-*Day 54-55: Seek guidance or mentorship from experienced pentesters if possible*<br>
-*Day 56-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding*<br>
+### **Week 13: Review & Practice** <br>
+*Day 72-77: Review all topics covered in the past weeks*
+- Review all flashcards created, find more resources for any topic you do not understand in the flash cards <br><br>
+
+*Day 77-80: Practice on realistic web app pentesting scenarios*
+- Finish any of the labs from the weeks prior that you have not completed (PortSwigger, Juice Shop, THM, HTB) <br><br>
+
+*Day 80-83: Seek guidance or mentorship from experienced pentesters if possible*
+- Ask clarifying questions on LinkedIn posts you come across discussing the methods learned
+- Engage with others in Discord servers (I run https://discord.gg/thersc but an awesome list of other servers can be found here https://github.com/INIT6Source/Hacker_Discords) <br><br>
+
+*Day 83-90: Continue hands-on practice, explore real-world applications, and attend webinars or workshops to deepen understanding*
+- Take a go at Damn Vulnerable Web Application (DVWA) or OWASP WebGoat
+- Attend several web application webcasts, prepare some possible questions for the presenter
+- Explore some real bug bounty programs to see what you can find, write reports on any finding discovered
+
+<br>
 <br><br>
 
 
 <br><br>
+# Extra Resources
+
+If you got here after 90 days - CONGRATS!!!! What did you learn about your learning style? What was the best resources you found on your own? Take some time to reflect and celebrate a win - you deserve it. 
+
 ## **Free Web App Security Courses**
 - Qualys Web Application Scanning Self Paced Training: https://www.qualys.com/training/course/web-application-scanning/
 - PentesterLab Web for Pentester: https://pentesterlab.com/exercises/web_for_pentester/course
@@ -200,3 +216,6 @@ Dearest fellow ADHDers. This might look like a lot! Take a few hours, plan this 
 4. Utilize task lists, timers, and study apps to help with time management and focus.<br>
 5. Consider joining a study group or finding an accountability partner to stay motivated and engaged.<br>
 6. Celebrate achievements and progress throughout the 90 days to boost morale.<br>
+
+<br><br>
+If this helped you get going on your webapp pentesting journey, I want to know! Please feel free to add or tag me - https://www.linkedin.com/in/angsec/
