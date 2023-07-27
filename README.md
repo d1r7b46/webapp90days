@@ -13,7 +13,7 @@ The 4 types are: <br>
 **Visual** - learning via diagrams, pictures, charts, notes with different spatial arrangements or colors<br>
 **Auditory** - learning via active listening<br>
 **Read/Write** - learning via reading and writing<br>
-**Kinaesthetic** - interactive learning, learning by doing<br>
+**Kinesthetic** - interactive learning, learning by doing<br>
 
 <br><br>
 
@@ -50,7 +50,7 @@ Okay onto the good stuff!
    - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Visual
    - Look up image searches like "website diagram" or "web basics diagram", find a few that from trusted sources and make your own in your notes. 
-- Kinaesthetic
+- Kinesthetic
    - TryHackMe rooms "DNS in Detail" and "HTTP in Detail": https://tryhackme.com/room/dnsindetail & https://tryhackme.com/room/httpindetail
 
 *Day 3-4: Understand Web Application Architecture and Components*
@@ -61,7 +61,7 @@ Okay onto the good stuff!
    - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Visual
    - Look up image searches like "web app architecture", find a few that from trusted sources and make your own in your notes.
-- Kinaesthetic
+- Kinesthetic
    - Reach through this article and create a venn diagram for your notes that details websites vs web applications: https://www.freecodecamp.org/news/difference-between-a-website-and-a-web-application/
 
 *Day 5-6: Learn About HTTP Methods, Status codes, and Headers.*
@@ -73,7 +73,7 @@ Okay onto the good stuff!
    - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Visual
    - INPUT
-- Kinaesthetic
+- Kinesthetic
    - INPUT
 
 *Day 7: Familiarize yourself with common web-related terms and concepts.*
@@ -104,9 +104,9 @@ This three part series is great - if you want to solidify your knowledge, make y
    - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Visual
   - Understanding Components of a Table, recreate diagrams as needed: https://www.w3resource.com/sql/sql-basic/the-components-of-a-table.php 
-- Kinaesthetic
+- Kinesthetic
   - Complete both Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#sql-injection
-    - Part of kinaesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
+    - Part of Kinesthetic is watching someone work and mimicking. My favorite online teacher for PortSwigger labs is Rana Khalil (https://www.youtube.com/@RanaKhalil101)
   - TryHackMe Rooms (free): https://tryhackme.com/room/sqlilab AND/OR https://tryhackme.com/room/sqlinjectionlm <br><br>
 
 *Day 10-11: Types of SQL injection attacks*<br>
@@ -120,7 +120,7 @@ This three part series is great - if you want to solidify your knowledge, make y
       - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Visual
       - Draw diagrams for yourself of each type you learn about in the material below. If possible, partner with a mentor to ensure understanding.
-   - Kinaesthetic
+   - Kinesthetic
       - Complete any Portswigger Practitioner labs with Union or Blind in the lab name that you can: https://portswigger.net/web-security/all-labs#sql-injection
       - Learn about SQLMap by finishing this TryHackMe room (free): https://tryhackme.com/room/sqlmap <br><br>
 
@@ -134,11 +134,11 @@ This three part series is great - if you want to solidify your knowledge, make y
       - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
    - Visual
       - Take notes on the Synk's document here, changing up hilighting or even drawing your own diagrams: https://foojay.io/today/8-best-practices-to-prevent-sql-injection-attacks/
-   - Kinaesthetic
+   - Kinesthetic
       - INPUT
 
 *Day 14: Hands-on SQL Injection exercises*<br>
-   - Kinaesthetic
+   - Kinesthetic
       - TryHackMe Rooms: https://tryhackme.com/room/sqhell AND/OR https://tryhackme.com/room/prioritise
       - Review all flashcards created through the first week. Here's the deck I created: https://quizlet.com/814910147/sql-injections-flash-cards/?i=4yncp7&x=1jqt
 <br>
@@ -159,7 +159,7 @@ Optional - Subscription Needed:
    - This blog has some good visuals for several XSS attacks: https://dev.to/maleta/cors-xss-and-csrf-with-examples-in-10-minutes-35k3
    - Watch the Computerphile guys explain verbally and by drawing out a xss attack: https://www.youtube.com/watch?v=L5l9lSnNMxg&list=RDLVL5l9lSnNMxg&start_radio=1&rv=L5l9lSnNMxg&t=33
    - The Lightboard Lesson series is awesome to watch through, here's the XSS one: https://www.youtube.com/watch?v=IuzU4y-UjLw
-- Kinaesthetic
+- Kinesthetic
    - TryHackMe room MD2PDF has a XSS vulnerability, can you get the flag? https://tryhackme.com/hacktivities?tab=search&page=1&free=all&order=most-popular&difficulty=all&type=all&searchTxt=xss
    
 
@@ -171,7 +171,7 @@ Optional - Subscription Needed:
    - Make and practice with 10-20 physical or digital flashcards, focusing on vocab and key concepts
 - Visual
    - PwnFunction on YouTube draws and provides graphics as they teach, Reflected XSS is at 5.41, Dom is at 7.30: https://www.youtube.com/watch?v=EoaDgUgS6QA
-- Kinaesthetic
+- Kinesthetic
    - Complete all Portswigger Apprentice labs: https://portswigger.net/web-security/all-labs#cross-site-scripting <br><br>
    
 *Day 15-16: Mitigation techniques and secure coding practices*<br>
@@ -183,11 +183,11 @@ Optional - Subscription Needed:
 - Visual
    - Web Dev Simplified on YouTube explains how to correct a basic XSS attack: https://www.youtube.com/watch?v=ns1LX6mEvyM
    - Academind takes it some steps further by attacking and editing code for several xss attacks: https://www.youtube.com/watch?v=oEFPFc36weY
-- Kinaesthetic
+- Kinesthetic
    - Review the section "How to prevent XSS attacks", utilizing AI or a mentor to write weak and strong code: https://www.wordfence.com/learn/how-to-prevent-cross-site-scripting-attacks/ <br><br>
 
 *Day 17-20: Hands-on XSS exploitation exercises* <br>
-- Kinaesthetic
+- Kinesthetic
    - Play the XSS Game: https://xss-game.appspot.com
    - Review all flashcards created through these first two weeks 
 <br>   
