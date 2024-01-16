@@ -32,7 +32,7 @@ https://quizlet.com <br><br><br>
 
 
 ## Informational  
-I have curated a group of diverse YouTube channels and personalities to optimize the learning experience. I suggest you identify your preferred learning style, espectially as it comes to auditory and visual, and seek out the type of learning that you get the most from. This plan will heavily benefit those who are mulitmodal learners, or those that learn best by a multitude of styles. <br><br>
+I have curated a group of diverse YouTube channels and personalities to optimize the learning experience. I suggest you identify your preferred learning style, especially as it comes to auditory and visual, and seek out the type of learning that you get the most from. This plan will heavily benefit those who are mulitmodal learners, or those that learn best by a multitude of styles. <br><br>
 
 Okay onto the good stuff!
 
