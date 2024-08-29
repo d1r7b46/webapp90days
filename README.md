@@ -1,5 +1,5 @@
 # Web App Attack Basics - 90 Days of Education
-This plan is designed for self-education in web application security and includes the following topics:
+This plan is designed for self-education in web application security and includes the following topics: <br>
 **Week 1-2:** SQL Injection <br>
 **Week 3-4:** XSS Attacks (Cross-Site Scripting) <br>
 **Week 5-6:** Access Control Vulnerabilities <br>
